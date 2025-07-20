@@ -1,1 +1,1 @@
-Project Report in pdf
+Project Report in both pdf and doc format
