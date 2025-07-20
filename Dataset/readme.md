@@ -11,6 +11,6 @@ https://www.kaggle.com/datasets/phucthaiv02/butterfly-image-classification/data
 
 To use this dataset:
 
-Create a free Kaggle account.
-Download the dataset.
-Extract the files and place them in the appropriate folder as per project instructions.
+  1.Create a free Kaggle account.
+  2.Download the dataset.
+  3.Extract the files and place them in the appropriate folder as per project instructions.
